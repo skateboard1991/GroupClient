@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">GroupClient</string>
+    <string name="order_list">订单列表</string>
+
+    <string name="retry">重试</string>
+    <string name="complete">完成</string>
+    <string name="start">开始</string>
+    <string name="signin">登录</string>
+    <string name="signout">登出</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="empty_message">不能为空</string>
+    <string name="order_number_empty_message">请输入订单号</string>
+    <string name="type_empty_message">请输入型号</string>
+    <string name="voltage_empty_message">请输入电压</string>
+    <string name="size_empty_message">请输入类型</string>
+    <string name="amount_empty_message">请输入数量</string>
+    <string name="username_empty_message">请输入用户名</string>
+    <string name="password_empty_message">请输入密码</string>
+    <string name="signin_success">登录成功</string>
+    <string name="invalid_user">请确认输入正确的用户名和密码</string>
+    <string name="logout_failed">登出失败</string>
+
+
+    <string name="network_error_title">无可用网络</string>
+    <string name="network_error_message">请检查你的网络是否连接</string>
+    <string name="push_register_failed_tip_title">Push注册失败</string>
+    <string name="push_register_failed_tip_message">Push注册失败,请重试</string>
+
+
+    <string name="order_number_item">订单号</string>
+    <string name="order_type_item">型号</string>
+    <string name="order_voltage_item">电压</string>
+    <string name="order_size_item">规格</string>
+    <string name="order_amount_item">数量</string>
+    <string name="order_note_item">备注</string>
+    <string name="order_date_item">日期</string>
+    <string name="order_state_item">状态</string>
+</resources>
